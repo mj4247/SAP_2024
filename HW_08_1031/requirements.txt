@@ -1,4 +1,4 @@
-streamlit==1.25.0               # 웹 앱 프레임워크
-pandas==2.1.1                   # 데이터 처리
-plotly==5.17.0                  # 데이터 시각화
-requests==2.31.0                # HTTP 요청을 통해 데이터 가져오기 (fetch_thingspeak_data에서 사용 시)
+streamlit==1.25.0
+pandas==2.1.1
+plotly==5.17.0
+requests==2.31.0
