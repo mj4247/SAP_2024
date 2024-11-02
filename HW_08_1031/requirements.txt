@@ -2,3 +2,4 @@ streamlit==1.25.0               # Streamlit 웹 앱 프레임워크
 pandas==2.1.1                   # 데이터 분석을 위한 Pandas
 plotly==5.17.0                  # Plotly로 데이터 시각화
 requests==2.31.0                # HTTP 요청을 통한 데이터 가져오기
+pillow==9.2.0  # Pillow 버전 명시
